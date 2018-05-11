@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/5aacbedb980915f3a9bda31dcba6417854815827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fa3caf9a4de50599a6ce712beaff02e6e7ca676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/e0feb31a6f753d95952c00b1c98cba6736665916/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7865620233c74cd977ff61f6a7ddce3f25df28d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c62ab2f3f7dbe0f1e12b056bf9b7f2259d1ac506">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e4b1096bea7f0daa469b9685188c38d33bd9dca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/3d16b08bb3562f069c8c67965379f4da9747904c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_408458788eada4a9389fb3d9116ae917a1a0ddb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a42b36220f4cf38acfae49f2d933657c6f1109f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2cf70695ab373265f92a160f6f9c264d4885842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/f067248cbae65f52d14190d83db6f4bbd9f33c51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_599301f8bbf49b6d18fc314e1f50e8da8e1598b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/99122c9e87b615f451c15d8c4f16d10a3d30a66e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84ea16e97f5231684f99cc8301812256195782c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/3bec7e63c497b78d86aa25de79a26c0ab2d31bd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e49a4dd14ef3bf780396fba965a8419e99dd08cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/e3856355de23f505b04361dbd0edfca06a708480/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7959a6ce4021af4fd555e97c9880a8038ffa37bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/66c309a0f6e4e26293ba524e4528acc87b6b7ea2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1958d009526f6f50919764dfb94ba69f61ba188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haipingguo/.android/build-cache/3077baae0001ecef89f70784d9bd3a4d13f6dc42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/haipingguo/AndroidStudioProjects/NotificationFactory/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5f98e35a2cc3bd6e8219e6a3f928e3cc65bc2bd/classes.dex" />
+    </item>
+
+</items>
